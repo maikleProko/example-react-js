@@ -1,0 +1,35 @@
+.UserStock{
+    display: flex;
+}
+
+#userDiv{
+    width: 25vw;
+    margin: 10px;
+}
+
+#userDiv table{
+    table-layout:  fixed;
+    width: 100%;
+}
+
+#userDiv table td{
+    border: 1px solid black;
+}
+
+#tableDiv{
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60vw;
+}
+
+#tableDiv table{
+    margin: auto;
+    table-layout: fixed;
+}
+
+#tableDiv table td, #tableDiv table th{
+    border: 1px solid black;
+    text-align: center;
+    vertical-align: middle;
+}
