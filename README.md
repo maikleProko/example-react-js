@@ -1,2 +1,2 @@
-# react-example-js
-react-example-js
+# example-react-js
+example-react-js
